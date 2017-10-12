@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 68364f2236f3a4d83acf47428f0ef982
+timeCreated: 1507828738
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 1167125056598862, guid: e57276e24a016461180c9384d5ca9862, type: 2}
+  - lvlManager: {fileID: 1153627287985668, guid: e2a2d32d7018941a99944980abde6b42,
+      type: 2}
+  - coin: {fileID: 1559928511198636, guid: f23a316b29dfc41ddb7d074013dd38a0, type: 2}
+  - tools: {fileID: 1954094646957026, guid: 41c6043cb58164a0383e7849564c2c6a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
