@@ -10,7 +10,7 @@ public class enemyBaseHealth : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		health = 25;
+		health = 40;
 	}
 	
 	// Update is called once per frame
